@@ -1,0 +1,48 @@
+footer > div > i {
+    color: #ecb807;
+}
+
+#contato li a{
+	background: #ecb807;
+}
+
+.bg-equipe {
+	background: #1D382A;
+}
+
+.bg-sobre {
+	background: #ecb807;
+	color: #1D382A;
+}
+
+.cabecalho {
+	margin-bottom: 85px;
+}
+
+.callout {
+	color: #fff;
+}
+
+.contato {
+	background: #1D382A;
+}
+
+.img-equipe > img {
+	border-radius: 50%;
+
+}
+
+.op-mapa {
+	background: linear-gradient(to right, #2c4b2f 0%, #657d31 58%, #657d31 100%);
+}
+
+.menu {
+	top: 0 !important;
+}
+
+.title {
+	color: #fff!important;
+	font-family: 'K2D', sans-serif;
+	text-shadow: 1px 1px #2A3618 !important;
+}
+
