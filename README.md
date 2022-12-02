@@ -1,6 +1,6 @@
 # MapGuav-Web
 
- O sistema web para  permitir que pesquisadores e outros interessados tenham acesso rápido a informações sobre a queda de dormência das sementes e mudas do Cerrado.
+Versão web e servidor REST para o projeto que registra a posição de guavirais.
                                                 
 ## Como usar
 
